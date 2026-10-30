@@ -1,0 +1,11 @@
+# 키가 들어가는 파일은 GitHub에 올리지 않습니다
+.env.local
+.env*.local
+
+# 패키지·빌드 결과
+node_modules/
+.next/
+out/
+
+# 빌드 부산물
+*.tsbuildinfo
